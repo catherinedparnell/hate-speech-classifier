@@ -1,3 +1,3 @@
-# Data
+# data
 
 [This dataset](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data) was created by Davidson et al. in their efforts to train a hate speech detection model (paper linked [here](https://arxiv.org/pdf/1703.04009.pdf)). The dataset was created by scraping tweets containing words in a hate speech lexicon created by Hatebase.org. The tweets are classified as containing hate speech, offensive language, or neither. We found this dataset particularly useful because it distinguishes between hate speech and offensive language, unlike other sources that combine the two into a single category. We are convinced of the legitimacy of this dataset given that it was analyzed in [this](https://www.aclweb.org/anthology/2020.alw-1.18.pdf) literature review as being one of the existing datasets used to classify hate speech.	
